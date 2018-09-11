@@ -1,3 +1,20 @@
-.navBar{
-    background-color: #1e555c;
+.navbar{
+    background-color: #6cae75;
+    font-family: 'Russo One', sans-serif;
+    font-size: 1.2em;
+}
+h1{
+    margin-top: 2em;
+}
+body{
+    font-family: 'Titillium Web', sans-serif;
+}
+label{
+    margin-top: 0.5em;
+}
+.form-control{
+    border-color: grey;
+}
+iframe{
+    display: flex;
 }
