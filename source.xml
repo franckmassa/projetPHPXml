@@ -9,11 +9,11 @@
 <p>Nous pouvons assurer tous vos travaux de tout corps d’état.</p>
 <h2>Nos dernières réalisations à Nantes</h2>
 <div class="gallery_box_single">
-    <div class="img "><img src="assets/img/Renovation-appartement-nantes-ocordo-travaux-300-225.jpg" alt="Rénovation d'un appartement à Nantes"/><p class="caption-text">Rénovation d'un appartement à Nantes</p></div>
+    <div class="img"><img src="assets/img/Renovation-appartement-nantes-ocordo-travaux-300-225.jpg" alt="Rénovation d'un appartement à Nantes"/><p class="caption-text">Rénovation d'un appartement à Nantes</p></div>
     <div class="img"><img src="assets/img/Travaux-de-renovation-à-nantes-300-225.jpg" alt="Aménagement de comble à Nantes"/><p class="caption-text">Aménagement de comble à Nantes</p></div>
     <div class="img"><img src="assets/img/entreprise-de-renovation-OCORDO-300-225.jpg" alt="Rénovation d'une maison à Nantes"/><p class="caption-text">Rénovation d'une maison à Nantes</p></div>
     <div class="img"><img src="assets/img/renovation-appartement-nantes-300-225.jpg" alt="Travaux de rénovation dans un appartement à Nantes"/><p class="caption-text">Travaux de rénovation dans un appartement à Nantes</p></div>
-    <div class="img"><img src="assets/img/societe-de-renovation-a-nantes-2.jpg" alt="Rénovation d'un appartement à Nantes"/><p class="caption-text">Rénovation d'un appartement à Nantes</p></div>
+    <div class="img"><img src="assets/img/societe-de-renovation-a-nantes-2.jpg" alt="Rénovation d'un appartement à Nantes"/><p class="caption-text">Rénovation d'un appartement à Nantes</p></div>	
 </div>
 
 
@@ -49,7 +49,7 @@ Quels sont les avantages en travaillant avec notre groupement ? Simplicité, Sé
 Pourquoi la Simplicité ? Parce que vous avez un seul interlocuteur qui est disponible de la préparation au chiffrage de l’ensemble de vos travaux.</p><p>
 
     Pourquoi la Sécurité ? Par ce que pour élaborer votre projet de travaux de rénovation ou de construction d’extension nous :</p><p>
-<ul>
+<ul>   
     <li>fixons un premier rendez-vous au cours duquel nous vous écoutons nous parlez de votre projet de travaux. À ce stade nous pouvons déjà vous conseiller.</li>
 <li>établissons un chiffrage détaillé lot par lot.</li>
 <li>vous remettons un dossier-devis comprenant les devis détaillés avec les dates prévisionnelles de début et de fin d’intervention,les assurances décennales et la RC professionnelle,</li>
@@ -82,7 +82,7 @@ bénéficier de prix très compétitifs et d’un excellent rapport qualité/pri
     <page id="4">
         <menu>Contact</menu>
         <title>Contactez nous - Maçonnerie Ocordo</title>
-        <content><![CDATA[<h1>Contact et Devis</h1>
+        <content><![CDATA[<h1>Contact et Devis</h1>    
 <p><iframe style="border: 0; float: right;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10840.441212216989!2d-1.562078!3d47.214424!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x10a23dc1d980bca7!2sOcordo+Travaux+Nantes!5e0!3m2!1sfr!2sfr!4v1434122059096" width="600" height="450" frameborder="0"></iframe></p>
 <p>POUR OBTENIR UN DEVIS GRATUIT 3 POSSIBILITÉS :</p>
 <ul>
@@ -91,7 +91,7 @@ bénéficier de prix très compétitifs et d’un excellent rapport qualité/pri
     <li>Ou compétez le formulaire ci-dessous :</li>
 </ul>
 <div role="form">
-    <form action="/contact-devis#f69-p47-o1" method="post" class="form" novalidate="novalidate">
+    <form action="#" method="post" class="form" novalidate="novalidate">
         <label>Votre nom * :</label><input name="your-name" value="" size="40" class="form-control text validates-as-required" type="text">
         <label>Votre email :</label><input name="your-email" value="" size="40" class="form-control text email validates-as-email"  type="email">
         <label>Votre numéro de téléphone * :</label>
@@ -102,6 +102,7 @@ bénéficier de prix très compétitifs et d’un excellent rapport qualité/pri
         <input name="your-ville" value="" size="40" class="form-control text"  type="text">
         <label>Votre message * :</label>
         <textarea name="your-message" cols="40" rows="10" class="form-control textarea validates-as-required"  ></textarea>
+        <input type="submit" name="send" value="Envoyer"/>
     </form>
 </div>]]></content>
     </page>
