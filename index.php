@@ -9,10 +9,14 @@
   </head>
   <body>
     <div class="container-fluid">
-    <?php for ($i=0; $i < $sizeTab ; $i++) { ?>
-      <a href="<?php echo $xml->page[$i]['id'] ?>"><?php echo $xml->page[$i]->menu ?></a>
+    <!-- Boucle permettant d'afficher le menu de navigation en utilisant le nombre de page calculé dans la variable $PageNumber -->
+    <?php for ($i = 1; $i <= $PageNumber; $i++) { ?>
+      <!-- Lien ajoutant page + la valeur de la variable $i + .html à l'url -->
+      <a name="page" href="page<?php echo $i ?>.html"><?php echo $xml->page[$i-1]->menu ?></a>
     <?php } ?>
-      <p><?php echo $xml->page[0]->content; ?></p>
+    <!-- Permet d'afficher le noeud(balise) content en fonction de la valeur de la variable $pageRef -->
+    <!-- La variable $pageRef contient la valeur du paramètre page du GET -->
+      <p><?php echo $xml->page[$pageRef-1]->content ?></p>
     </div>
   </body>
 </html>
