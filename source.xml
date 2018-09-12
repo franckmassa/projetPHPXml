@@ -67,13 +67,13 @@ bénéficier de prix très compétitifs et d’un excellent rapport qualité/pri
         <title>Avis clients - Maçonnerie Ocordo</title>
         <content><![CDATA[<h1 class="text-center">Nos clients témoignent</h1>
 <div class="testimonials-list">
-    <div class="quote">
-        <h2 class="text-center">Rénovation transformation</h2>
+    <div class="quote p-3">
+        <h2>Rénovation transformation</h2>
         <p>Transformation rénovation d’un garage et refaire les murs ( placo), l’electricité (prises, eclairage leds ),le sol ( carrelage), les peintures et changement d’une porte-fenêtre. Devis: précis et rapide Prestations au rythme convenu, réalisation des travaux sans failles, très bonnes prestation Chantier: propreté absolue et nettoyage complet à la fin. Bémol : 2 jours de retard à cause du retard de livraison de la fenêtre, mais vraiment pas grave. Prix: très raisonnable Je recommande Ocordo pour l’efficacité du travail réalisé en amont: devis, tarifs. Ils connaissent le travail.</p>
         <p>BrunoPH</p>
     </div>
-    <div class="quote">
-        <h2 class="text-center">Sérieux</h2>
+    <div class="quote mt-5 p-3">
+        <h2>Sérieux</h2>
         <p>Nous sommes satisfait du travail de cette entreprise qui a rénové notre maison quand nous sommes arrivés à lille. il y avait tout a rénové et leur commercial a su nous consacrer du temps pour nous proposer un projet qui convenait à notre gout et à notre budget. les travaux ont été bien fait à part un petit détail au niveau de la fourniture de la robineterie de la cuisine mais sans gravité</p>
         <p>PJ9e7S9L</p>
     </div>
@@ -86,9 +86,9 @@ bénéficier de prix très compétitifs et d’un excellent rapport qualité/pri
 <p><iframe class="mx-auto d-block col-md-12 w-75" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10840.441212216989!2d-1.562078!3d47.214424!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x10a23dc1d980bca7!2sOcordo+Travaux+Nantes!5e0!3m2!1sfr!2sfr!4v1434122059096" width="600" height="450" frameborder="0"></iframe></p>
 <p class="text-center">POUR OBTENIR UN DEVIS GRATUIT 3 POSSIBILITÉS :</p>
 <ul class="text-center">
-    <li id="phone">Téléphonez-nous au 02.51.84.18.24</li>
-    <li id="mail">Ou écrivez-nous à cette adresse email : contact@ocordo-travaux.fr</li>
-    <li>Ou compétez le formulaire ci-dessous :</li>
+    <li class="listForm">Téléphonez-nous au 02.51.84.18.24</li>
+    <li class="listForm">Ou écrivez-nous à cette adresse email : contact@ocordo-travaux.fr</li>
+    <li class="listForm">Ou compétez le formulaire ci-dessous :</li>
 </ul>
 <div role="form">
     <form class="form mx-auto w-75" action="#" method="post" novalidate="novalidate">
