@@ -7,13 +7,13 @@
 <p>Nous sommes un groupement permanent d’entreprises locales du bâtiment spécialisées dans les travaux de rénovation de maisons et de construction d’extensions horizontales ou verticales de maisons.</p>
 <p>Nous sommes capables de gérer un projet de rénovation ou d’extension de A à Z grâce à nos entreprises générales de bâtiment partenaires.</p>
 <p>Nous pouvons assurer tous vos travaux de tout corps d’état.</p>
-<h2>Nos dernières réalisations à Nantes</h2>
-<div class="gallery_box_single">
-    <div class="img float-left mr-5"><img src="assets/img/Renovation-appartement-nantes-ocordo-travaux-300-225.jpg" alt="Rénovation d'un appartement à Nantes"/><p class="caption-text text-center">Rénovation d'un appartement à Nantes</p></div>
-    <div class="img float-left mr-5"><img src="assets/img/Travaux-de-renovation-à-nantes-300-225.jpg" alt="Aménagement de comble à Nantes"/><p class="caption-text text-center">Aménagement de comble à Nantes</p></div>
-    <div class="img float-left mr-5"><img src="assets/img/entreprise-de-renovation-OCORDO-300-225.jpg" alt="Rénovation d'une maison à Nantes"/><p class="caption-text text-center">Rénovation d'une maison à Nantes</p></div>
-    <div class="img float-left mr-5"><img src="assets/img/renovation-appartement-nantes-300-225.jpg" alt="Travaux de rénovation dans un appartement à Nantes"/><p class="caption-text text-center">Travaux de rénovation dans un appartement à Nantes</p></div>
-    <div class="img float-left mr-5"><img src="assets/img/societe-de-renovation-a-nantes-2.jpg" alt="Rénovation d'un appartement à Nantes"/><p class="caption-text text-center">Rénovation d'un appartement à Nantes</p></div>	
+<h2 class="text-center">Nos dernières réalisations à Nantes</h2>
+<div class="row gallery_box_single">
+    <div class="img col-md-4 col-sm-12 col-xs-12"><img src="assets/img/Renovation-appartement-nantes-ocordo-travaux-300-225.jpg" class="rounded mx-auto d-block" width="400" alt="Rénovation d'un appartement à Nantes" /><p class="caption-text text-center font-italic">Rénovation d'un appartement à Nantes</p></div>
+    <div class="img col-md-4 col-sm-12 col-xs-12"><img src="assets/img/Travaux-de-renovation-à-nantes-300-225.jpg" class="rounded mx-auto d-block" width="400" alt="Aménagement de comble à Nantes"/><p class="caption-text text-center font-italic">Aménagement de comble à Nantes</p></div>
+    <div class="img col-md-4 col-sm-12 col-xs-12"><img src="assets/img/entreprise-de-renovation-OCORDO-300-225.jpg" class="rounded mx-auto d-block" width="400" alt="Rénovation d'une maison à Nantes"/><p class="caption-text text-center font-italic">Rénovation d'une maison à Nantes</p></div>
+    <div class="img col-md-5 offset-1 col-sm-12 col-xs-12"><img src="assets/img/renovation-appartement-nantes-300-225.jpg" class="rounded mx-auto d-block" width="400" alt="Travaux de rénovation dans un appartement à Nantes" id="img4" /><p class="caption-text text-center font-italic">Travaux de rénovation dans un appartement à Nantes</p></div>
+    <div class="img col-md-5 col-sm-12 col-xs-12"><img src="assets/img/societe-de-renovation-a-nantes-2.jpg" class="rounded mx-auto d-block" width="400" alt="Rénovation d'un appartement à Nantes" id="img5" /><p class="caption-text text-center font-italic">Rénovation d'un appartement à Nantes</p></div>	
 </div>
 
 
@@ -24,11 +24,11 @@
         <menu>Qui sommes nous?</menu>
         <title>En apprendre plus sur nous - Maçonnerie Ocordo</title>
         <content><![CDATA[<h1 class="text-center">Qui sommes-nous?</h1>
-<h2>L’AGENCE DE TRAVAUX OCORDO</h2>
+<h2 class="text-center">L’AGENCE DE TRAVAUX OCORDO</h2>
 <h3>Présentation de notre entreprise</h3>
 <p>Nous sommes un groupement permanent d’entreprises locales du bâtiment spécialisées dans les travaux de rénovation d’appartements et de maisons et de construction d’extensions horizontale ou verticale de maisons.</p><p>
     Nous travaillons exclusivement pour les particuliers.</p>
-<p><iframe src="https://www.youtube.com/embed/Crh5lFpNK0o?feature=oembed" allowfullscreen="" width="500" height="281" frameborder="0"></iframe></p>
+<p class="embed-responsive embed-responsive-21by9 video"><iframe class="embed-responsive-item w-75" src="https://www.youtube.com/embed/Crh5lFpNK0o?feature=oembed" allowfullscreen="" width="500" height="281" frameborder="0"></iframe></p>
 <p>Notre groupement est en mesure de vous proposer les compétences métier dans le gros oeuvre et le second oeuvre :</p><p>
 <ul>
     <li>Maçonnerie générale</li><li>
@@ -68,12 +68,12 @@ bénéficier de prix très compétitifs et d’un excellent rapport qualité/pri
         <content><![CDATA[<h1 class="text-center">Nos clients témoignent</h1>
 <div class="testimonials-list">
     <div class="quote">
-        <h2>Rénovation transformation</h2>
+        <h2 class="text-center">Rénovation transformation</h2>
         <p>Transformation rénovation d’un garage et refaire les murs ( placo), l’electricité (prises, eclairage leds ),le sol ( carrelage), les peintures et changement d’une porte-fenêtre. Devis: précis et rapide Prestations au rythme convenu, réalisation des travaux sans failles, très bonnes prestation Chantier: propreté absolue et nettoyage complet à la fin. Bémol : 2 jours de retard à cause du retard de livraison de la fenêtre, mais vraiment pas grave. Prix: très raisonnable Je recommande Ocordo pour l’efficacité du travail réalisé en amont: devis, tarifs. Ils connaissent le travail.</p>
         <p>BrunoPH</p>
     </div>
     <div class="quote">
-        <h2>Sérieux</h2>
+        <h2 class="text-center">Sérieux</h2>
         <p>Nous sommes satisfait du travail de cette entreprise qui a rénové notre maison quand nous sommes arrivés à lille. il y avait tout a rénové et leur commercial a su nous consacrer du temps pour nous proposer un projet qui convenait à notre gout et à notre budget. les travaux ont été bien fait à part un petit détail au niveau de la fourniture de la robineterie de la cuisine mais sans gravité</p>
         <p>PJ9e7S9L</p>
     </div>
@@ -83,7 +83,7 @@ bénéficier de prix très compétitifs et d’un excellent rapport qualité/pri
         <menu>Contact</menu>
         <title>Contactez nous - Maçonnerie Ocordo</title>
         <content><![CDATA[<h1 class="text-center">Contact et Devis</h1>    
-<p><iframe class="mx-auto d-block" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10840.441212216989!2d-1.562078!3d47.214424!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x10a23dc1d980bca7!2sOcordo+Travaux+Nantes!5e0!3m2!1sfr!2sfr!4v1434122059096" width="600" height="450" frameborder="0"></iframe></p>
+<p><iframe class="mx-auto d-block col-md-12 w-75" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10840.441212216989!2d-1.562078!3d47.214424!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x10a23dc1d980bca7!2sOcordo+Travaux+Nantes!5e0!3m2!1sfr!2sfr!4v1434122059096" width="600" height="450" frameborder="0"></iframe></p>
 <p class="text-center">POUR OBTENIR UN DEVIS GRATUIT 3 POSSIBILITÉS :</p>
 <ul class="text-center">
     <li id="phone">Téléphonez-nous au 02.51.84.18.24</li>
@@ -91,7 +91,7 @@ bénéficier de prix très compétitifs et d’un excellent rapport qualité/pri
     <li>Ou compétez le formulaire ci-dessous :</li>
 </ul>
 <div role="form">
-    <form action="#" method="post" class="form" novalidate="novalidate">
+    <form class="form mx-auto w-75" action="#" method="post" novalidate="novalidate">
         <label>Votre nom * :</label>
         <input name="your-name" value="" size="40" class="form-control text validates-as-required" placeholder="Nom" type="text">
         <label>Votre email :</label>
@@ -104,7 +104,7 @@ bénéficier de prix très compétitifs et d’un excellent rapport qualité/pri
         <input name="your-ville" value="" size="40" class="form-control text" placeholder="Ville" type="text">
         <label>Votre message * :</label>
         <textarea name="your-message" cols="40" rows="10" class="form-control textarea validates-as-required" placeholder="Message"></textarea>
-        <input class="form-control form-control-lg mt-2" type="submit" name="send" value="Envoyer" />
+        <input class="form-control form-control-lg mt-2" type="submit" name="send" id="button" value="Envoyer" />
     </form>
 </div>]]></content>
     </page>

@@ -4,9 +4,9 @@
     <head>
         <meta charset="utf-8" />
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" />
-        <link href="https://fonts.googleapis.com/css?family=Russo+One|Titillium+Web" rel="stylesheet">         
+        <link href="https://fonts.googleapis.com/css?family=Dosis|Nanum+Gothic|Russo+One" rel="stylesheet">       
         <link rel="stylesheet" href="assets/css/style.css" />
-        <title>Maçonnerie Ocordo</title>
+        <title><?= $xml->page[$pageRef - 1]->title ?></title>
     </head>
     <body>
         <div class="container-fluid w-75">
@@ -20,14 +20,17 @@
                         <?php for ($i = 1; $i <= $PageNumber; $i++) { ?>
                             <li class="nav-item active">
                                 <!-- Lien ajoutant page + la valeur de la variable $i + .html à l'url -->
-                                <a class="nav-link" href="page<?php echo $i ?>.html"><?php echo $xml->page[$i - 1]->menu ?></a>
+                                <a class="nav-link" href="page<?= $i ?>.html"><?php echo $xml->page[$i - 1]->menu ?></a>
                             </li>
                         <?php } ?>
                     </ul>
             </nav> 
             <!-- Permet d'afficher le noeud(balise) content en fonction de la valeur de la variable $pageRef -->
             <!-- La variable $pageRef contient la valeur du paramètre page du GET -->
-            <p><?php echo $xml->page[$pageRef - 1]->content ?></p>
+            <p><?= $xml->page[$pageRef - 1]->content ?></p>
         </div>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/js/bootstrap.min.js" integrity="sha384-o+RDsa0aLu++PJvFqy8fFScvbHFLtbvScb8AjopnFD+iEQ7wo/CG0xlczd+2O/em" crossorigin="anonymous"></script>
     </body>
 </html>
