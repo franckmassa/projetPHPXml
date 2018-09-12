@@ -22,6 +22,7 @@ p{
 }
 body{
     font-family: 'Dosis', sans-serif;
+    background: url(../img/parquet.jpg); 
 }
 label{
     margin-top: 0.5em;
@@ -35,4 +36,7 @@ label{
 #button:hover{
     background-color: #6cae75;
     transition-delay: 10s;
+}
+.container-fluid{
+    background-color: grey;
 }
