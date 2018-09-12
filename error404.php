@@ -7,7 +7,7 @@
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" />
         <link href="https://fonts.googleapis.com/css?family=Dosis|Nanum+Gothic|Russo+One" rel="stylesheet">
         <link rel="stylesheet" href="assets/css/style.css" />
-        <title><?= $xml->page[$pageRef - 1]->title ?></title>
+        <title>Erreur 404</title>
     </head>
     <body>
         <div class="container-fluid w-75 rounded">
