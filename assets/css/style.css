@@ -23,7 +23,7 @@ p{
 }
 body{
     font-family: 'Dosis', sans-serif;
-    background: url(../img/parquet.jpg); 
+    background: url(../img/parquet.jpg);
 }
 label{
     margin-top: 0.5em;
@@ -69,7 +69,7 @@ label{
     font-size: 1.6em;
   }
   img{
-    width: 180px;
+    width: 160px;
   }
-  
+
 }
