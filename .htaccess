@@ -1,3 +1,4 @@
+#Vérifie que le module est activé
 <ifModule mod_rewrite.c>
   RewriteEngine On
   RewriteRule ^page([0-4]).html$ index.php?page=$1
